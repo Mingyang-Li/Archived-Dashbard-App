@@ -1,1 +1,1 @@
-# Personal-Finance-Dashboard
+This app is a data visualisation tool for a set of data from google sheet 
